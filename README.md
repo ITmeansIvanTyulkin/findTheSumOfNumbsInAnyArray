@@ -9,3 +9,14 @@
 
 Задача №2:
 Написать параметризованные тесты для созданного метода и проверить его работоспособность.
+-------------------------------------------------------------------------------------------
+
+Technical specification for the Middle QA Engineer vacancy
+
+Task #1:
+Create a method that meets the following condition:
+Method that can find a pair of numbers in the array, giving a total of zero. An array of some size (any) containing integers (int), both positive and negative, and is not sorted either descending or ascending.
+For example, int[] numbers = {-3, 12, 4, 7, -5, -4, 11, 2, -1, 10}; Numbers that add up to zero == 4 and -4.
+
+Task #2:
+Write parameterized tests for the created method and check its operability.
